@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Borislav 👋
 
-<!--
-**Borislav-E/Borislav-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior JavaScript Developer** based in Bulgaria, switching careers after nearly six years
+as a robot technician in UK automotive manufacturing. I spent those years tracing faults
+on industrial robots back to their root cause, and now I bring the same approach to writing
+and debugging code.
 
-Here are some ideas to get you started:
+I'm a graduate of the **Telerik Academy Alpha JavaScript** track and I'm looking for my first
+role as a junior developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I work with
+
+JavaScript · React · HTML · CSS · SQL · Supabase · PostgreSQL · Git · GitHub · npm · Vite
+
+## 🎬 Featured project
+
+**[Cinephile Forum](https://github.com/telerik-team3/cinephile-forum)**: a community forum
+for movie lovers, built in a 3-person team with React and Supabase. I owned the posts and
+voting features end to end: database design, Row Level Security, service layer, React UI,
+and tests.
+
+## 📫 Get in touch
+
+[Email](borislav.e93@gmail.com)
