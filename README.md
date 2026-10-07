@@ -21,4 +21,4 @@ and tests.
 
 ## 📫 Get in touch
 
-[Email](borislav.e93@gmail.com)
+[Email](mailto:borislav.e93@gmail.com)
