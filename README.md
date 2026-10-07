@@ -1,8 +1,8 @@
 # Hi, I'm Borislav 👋
 
 **Junior JavaScript Developer** based in Bulgaria, switching careers after nearly six years
-as a robot technician in UK automotive manufacturing. I spent those years tracing faults
-on industrial robots back to their root cause, and now I bring the same approach to writing
+working with industrial robots in UK automotive manufacturing. I spent those years tracing faults 
+back to their root cause, and now I bring the same approach to writing
 and debugging code.
 
 I'm a graduate of the **Telerik Academy Alpha JavaScript** track and I'm looking for my first
